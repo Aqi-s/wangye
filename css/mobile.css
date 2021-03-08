@@ -1,0 +1,26 @@
+nav{
+	width: 50%;
+}
+nav .box{
+	width: 20px;
+	height: 20px;
+	background: orange;
+	float: right;
+}
+.nav-bar{
+	/* display: none; */
+	display: block;
+}
+
+.nav-bar li{
+	font-size: 12px;
+}
+.nav-bar-wapr{
+	margin: 0 5%;
+}
+body{
+	width: 100%;
+	height: 100%;
+	background: url(../img/11.jpg) repeat fixed center;
+	background-size: cover;
+}
